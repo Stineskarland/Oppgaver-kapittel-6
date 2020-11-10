@@ -1,0 +1,19 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<meta charset-"utf-8">
+</head>
+<body>
+<h3>Oppgave 6.12-14</h3>
+<form method="GET"> 
+Ditt navn
+<input type="text" name="dittnavn">
+Hva er din favorittfilm?
+<input type="text" name="favorittfilm">
+Hva er din favorittfarge?
+<input type="text" name="favorittfilm">
+<input type="submit" name="sendinn" value="Send inn"> 
+</form>
+  <li> <a href="https://stineskarland.github.io/Oppgaver-kapittel-6/"> Tilbake til hovedsiden</a>  
+  </body>
+<html>
